@@ -1,5 +1,5 @@
 
-### Author: Yuanyao Tan (tyuanyao@gmail.com)
+### Author: Yuanyao Tan (tyuanyao@gmail.com) and Wei Liang (lwlx2h@gmail.com)
 ### Date: 2020-10-03
 ### Version 2.0
 ### Reference: Tan, Y., Wen, X., Lang, W. and Yan, Y. (2020), Empirical Likelihood Weighted Estimation 
